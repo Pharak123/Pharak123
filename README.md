@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pharak123
+- 👋 Hi, I’m Aboli Waikos
 - 👀 I’m interested in computer networking.
 - 🌱 I’m currently learning HPC System Administration.
 - 💞️ I’m looking to collaborate on cloud computing.
